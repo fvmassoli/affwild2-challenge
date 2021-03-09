@@ -1,6 +1,6 @@
 # A Multi-resolution Approach to Expression Recognition in the Wild
 
-This repository contains the code relative to the paper "[A Multi-resolution Approach to Expression Recognition in the Wild](https://...)"
+This repository contains the code relative to the paper "[A Multi-resolution Approach to Expression Recognition in the Wild](...)"
 by Fabio Valerio Massoli (ISTI - CNR), Donato Cafarelli (Unipi),  Giuseppe Amato (ISTI - CNR), and Fabrizio Falchi (ISTI - CNR).
 
 **Please note:** 
@@ -15,8 +15,11 @@ to need to re-tune your hyperparameters slightly for your new setup.
 Minimal usage:
 
 ```
-python ....
+python3 main_affwild2.py -o adam -bp <base model checkpoint > -op <output folder path> -df <dataset path> -tr
 ```
+
+The *base model checkpoint* can be downloaded from [here](https://github.com/ox-vgg/vgg_face2). It is the SE-ResNet-50 with a final 
+features vector 2048-dim.
 
 
 ## Reference
