@@ -1,6 +1,6 @@
 # A Multi-resolution Approach to Expression Recognition in the Wild
 
-This repository contains the code relative to the paper "[A Multi-resolution Approach to Expression Recognition in the Wild](...)"
+This repository contains the code relative to the paper "[A Multi-resolution Approach to Expression Recognition in the Wild](https://arxiv.org/abs/2103.05723)"
 by Fabio Valerio Massoli (ISTI - CNR), Donato Cafarelli (Unipi),  Giuseppe Amato (ISTI - CNR), and Fabrizio Falchi (ISTI - CNR).
 
 **Please note:** 
@@ -24,7 +24,7 @@ features vector 2048-dim.
 
 ## Reference
 For all the details about the training procedure and the experimental results, 
-please have a look at the [paper](...).
+please have a look at the [paper](https://arxiv.org/abs/2103.05723).
 
 To cite our work, please use the following form
 
