@@ -29,7 +29,12 @@ please have a look at the [paper](https://arxiv.org/abs/2103.05723).
 To cite our work, please use the following form
 
 ```
-...
+@article{massoli2021multi,
+  title={A Multi-resolution Approach to Expression Recognition in the Wild},
+  author={Massoli, Fabio Valerio and Cafarelli, Donato and Amato, Giuseppe and Falchi, Fabrizio},
+  journal={arXiv preprint arXiv:2103.05723},
+  year={2021}
+}
 ```
 
 ## Contacts
